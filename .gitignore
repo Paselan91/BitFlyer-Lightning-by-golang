@@ -1,0 +1,7 @@
+.idea
+.env
+docker/db/data
+.DS_Store
+
+
+
